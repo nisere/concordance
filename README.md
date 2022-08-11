@@ -40,5 +40,5 @@ ff. word         {3:1,1,2}
 gg. write        {1:1}  
 hh. written      {1:1}  
 
-Run: py concordance.py document.txt  
+Run: py concordance.py [document_file] [concordance_file]
 where in document.txt you have the English text
