@@ -1,8 +1,8 @@
-#concordance
-Create the concordance of a text in English
+#concordance  
+Create the concordance of a text in English  
 
 Given an arbitrary text document written in English, write a program that will generate a concordance, i.e. an alphabetical list of all word occurrences, labeled with word frequencies.  
-Bonus: label each word with the sentence numbers in which each occurrence appeared.
+Bonus: label each word with the sentence numbers in which each occurrence appeared.  
 
 For example, this is a concordance of the above text:  
 a.  a            {2:1,1}  
@@ -39,6 +39,6 @@ ee. with         {2:1,2}
 ff. word         {3:1,1,2}  
 gg. write        {1:1}  
 hh. written      {1:1}  
-
+  
 Run: py concordance.py [document_file] [concordance_file]  
-where in document.txt you have the English text
+where in document.txt you have the English text  
