@@ -1,7 +1,7 @@
 #concordance
 Create the concordance of a text in English
 
-Given an arbitrary text document written in English, write a program that will generate a concordance, i.e. an alphabetical list of all word occurrences, labeled with word frequencies.
+Given an arbitrary text document written in English, write a program that will generate a concordance, i.e. an alphabetical list of all word occurrences, labeled with word frequencies.  
 Bonus: label each word with the sentence numbers in which each occurrence appeared.
 
 For example, this is a concordance of the above text:  
